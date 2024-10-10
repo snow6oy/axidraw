@@ -26,7 +26,7 @@ This fork is from AxiDraw Software 3.9.0 released on May 24, 2023. The above cha
 
 ```
 $ git clone https://github.com/snow6oy/axidraw.git
-$ git branch dev
+$ git checkout dev
 ```
 
 The Axidraw Extension has different builds for Windows, Mac and so on. When I ran `bash buildink.sh` it failed with hundreds of lines of output. The last line is shown below.
